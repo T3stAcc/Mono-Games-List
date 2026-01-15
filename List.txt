@@ -30,3 +30,4 @@ Sonic Dash / 3.7.6.Go
 Tank Stars / 1.2.1
 Tomb of the Mask / 1.3
 Crossy Road / 2.4.4
+Among Us / 2019.4.3
