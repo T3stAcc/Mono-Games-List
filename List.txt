@@ -36,3 +36,5 @@ Among Us / 2019.4.3
 Tiles Hop / 2.7.5
 Hungry Shark Evolution / 7.0.0
 Hungry Shark World / 3.0.2
+Sniper 3D / 2.14.14
+Extreme Car Driving Simulator / 4.17.6
