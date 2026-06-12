@@ -9,6 +9,7 @@
 
 Subway Surfers / 1.106.1
 Granny / 1.7.3
+Slendrina: The Cellar / 1.8.1
 Baldi's Basics Classic / 1.4.3 (ITCH.IO)
 Eyes - The Horror Game / 5.9.30 (BeeByte Obfuscator Used) / 5.2.30 (No Obfuscation)
 Rise Up / 2.0.0
@@ -32,3 +33,6 @@ Tank Stars / 1.2.1
 Tomb of the Mask / 1.3
 Crossy Road / 2.4.4
 Among Us / 2019.4.3
+Tiles Hop / 2.7.5
+Hungry Shark Evolution / 7.0.0
+Hungry Shark World / 3.0.2
